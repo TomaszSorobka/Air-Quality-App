@@ -1,5 +1,9 @@
+html{
+  height: 100%;
+}
 body{
   font-family: 'Lato', sans-serif;
+  height:100%;
 }
 
 header{
@@ -45,3 +49,9 @@ h1{
  .float-right>*{
      display:inline;
  }
+
+ .page-footer {
+  background-color: #ccf5ab;
+ }
+
+ 
